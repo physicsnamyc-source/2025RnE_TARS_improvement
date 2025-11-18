@@ -1,4 +1,9 @@
-# 2025RnE_TARS_improvement
-# 2025RnE_개선형 TARS 로봇 제작 프로젝트
+# 2025RnE_TARS_improvement: 개선형 TARS 로봇 제작 프로젝트
 
--목표: TARS가 50cm 높이의 장애물 위로 올라갈 수 있도록 기존의 TARS를 개선하는 것. Making the Tars to overcome 50 cm obstacle
+-목표: TARS가 50cm 높이의 장애물 위로 올라갈 수 있도록 기존의 TARS를 개선하는 것. 
+
+
+##세부 목표
+-영화속 TARS 구동 알고리즘 파악 및 구현 방법 모색하기
+-TARS의 장애물 극복 방안 모색하기
+-TARS 구현 및 장애물 극복 테스트 하기.
